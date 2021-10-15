@@ -1,0 +1,65 @@
+
+
+const service =[
+    {
+        id: 01
+        name: 'Memory Upgrade',
+        price: 3500,
+        img;'https://ibb.co/WzHZ50H
+        '
+    },
+    {
+        id: 02
+        name:'Power jack repair',
+        price: 700,
+        img:'https://ibb.co/7p6XzZT
+        '
+    },
+    {
+        id: 03
+        name: 'Cooler fan repair',
+        price: 3000,
+        ing:'https://ibb.co/mzcXG9H
+        '
+    },
+    {
+        id: 04
+        name: 'Internal Battary Replace',
+        price: 3500,
+        img:'https://ibb.co/3S2sw0P
+        '
+    },
+
+    {
+        id: 05
+        name: 'Motherboard repair & replacement',
+        price: 5000,
+        img:'https://ibb.co/XVqgHww
+        '
+    },
+
+    {
+        id: 06 
+        name:'Keyboard Replace',
+        price: 1500,
+        img:'https://ibb.co/P5077xS
+        '
+    },
+
+    {
+        id: 07 
+        name: 'Os Upgrade & Installation'
+        price: 2500,
+        img;'https://ibb.co/V2k8BKD
+        '
+    },
+
+    {
+        id: 08 
+        name: 'Broken Display Replace',
+        price: 4000,
+        img:'https://ibb.co/wSWqGj2
+        '
+    }
+
+]

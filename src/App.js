@@ -3,7 +3,7 @@ import './App.css';
 import { BrowserRouter , Switch, Route} from 'react-router-dom';
 import Home from './Component/Home/Home'
 import Header from './Component/Header/Header'
-import Services from './Component/Services/Services'
+import Services from './Component/Home/Services/Services'
 function App() {
   return (
     <div className="App">
